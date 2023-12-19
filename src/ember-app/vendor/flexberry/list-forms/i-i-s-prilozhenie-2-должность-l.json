@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-2-должность-e",
+  "editForm": "i-i-s-prilozhenie-2-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IISPrilozhenie_2ДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-2-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}

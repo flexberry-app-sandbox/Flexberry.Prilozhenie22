@@ -1,0 +1,81 @@
+﻿{
+  "applicationCaption": "Prilozhenie_2",
+  "applicationTitle": "Prilozhenie_2",
+  "items": [
+    {
+      "link": null,
+      "menuName": "prilozhenie-2",
+      "caption": "Prilozhenie_2",
+      "title": "Prilozhenie_2",
+      "children": [
+        {
+          "link": null,
+          "menuName": "сотрудники",
+          "caption": "Сотрудники",
+          "title": "Сотрудники",
+          "children": [
+            {
+              "link": "i-i-s-prilozhenie-2-сотрудник-l",
+              "menuName": null,
+              "caption": "Сотрудник",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-prilozhenie-2-должность-l",
+              "menuName": null,
+              "caption": "Должность",
+              "title": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "контроллер",
+          "caption": "Контроллер",
+          "title": "Контроллер",
+          "children": [
+            {
+              "link": "i-i-s-prilozhenie-2-сенсоры-l",
+              "menuName": null,
+              "caption": "Сенсоры",
+              "title": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "сервер",
+          "caption": "Сервер",
+          "title": "Сервер",
+          "children": [
+            {
+              "link": "i-i-s-prilozhenie-2-отчет-о-сервере-l",
+              "menuName": null,
+              "caption": "Отчет о сервере",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-prilozhenie-2-расположение-l",
+              "menuName": null,
+              "caption": "Расположение",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-prilozhenie-2-серверная-l",
+              "menuName": null,
+              "caption": "Серверная",
+              "title": "",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

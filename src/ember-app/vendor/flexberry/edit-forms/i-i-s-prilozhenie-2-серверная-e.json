@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Серверная",
+  "name": "IISPrilozhenie_2СервернаяE",
+  "className": "СервернаяE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-2-серверная",
+      "modelProjection": "СервернаяE"
+    }
+  ]
+}

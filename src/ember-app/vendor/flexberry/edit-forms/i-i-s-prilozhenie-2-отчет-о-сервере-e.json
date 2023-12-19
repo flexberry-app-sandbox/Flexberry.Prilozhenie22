@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Отчет о сервере",
+  "name": "IISPrilozhenie_2ОтчетОСервереE",
+  "className": "ОтчетОСервереE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-2-отчет-о-сервере",
+      "modelProjection": "ОтчетОСервереE"
+    }
+  ]
+}

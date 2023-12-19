@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Сенсоры",
+  "name": "IISPrilozhenie_2СенсорыE",
+  "className": "СенсорыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-2-сенсоры",
+      "modelProjection": "СенсорыE"
+    }
+  ]
+}
