@@ -35,7 +35,13 @@ export let ValidationRules = {
 
 export let defineProjections = function (modelClass) {
   modelClass.defineProjection('ОтчетОСервереE', 'i-i-s-prilozhenie-2-отчет-о-сервере', {
-    режим: attr('Режим', { index: 0 })
+    режим: attr('Режим', { index: 0 }),
+    расположение: belongsTo('i-i-s-prilozhenie-2-расположение', 'Адрес', {
+      адрес: attr('Адрес', { index: 1 })
+    }, { index: -1, hidden: true }),
+    серверная: belongsTo('i-i-s-prilozhenie-2-серверная', 'Сервер', {
+
+    }, { index: 2 })
   });
 
   modelClass.defineProjection('ОтчетОСервереL', 'i-i-s-prilozhenie-2-отчет-о-сервере', {

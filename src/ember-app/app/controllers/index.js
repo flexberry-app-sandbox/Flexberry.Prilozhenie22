@@ -26,13 +26,13 @@ export default Controller.extend({
               link: 'i-i-s-prilozhenie-2-сотрудник-l',
               caption: i18n.t('forms.application.sitemap.prilozhenie-2.сотрудники.i-i-s-prilozhenie-2-сотрудник-l.caption'),
               title: i18n.t('forms.application.sitemap.prilozhenie-2.сотрудники.i-i-s-prilozhenie-2-сотрудник-l.title'),
-              icon: 'archive',
+              icon: 'list',
               children: null
             }, {
               link: 'i-i-s-prilozhenie-2-должность-l',
               caption: i18n.t('forms.application.sitemap.prilozhenie-2.сотрудники.i-i-s-prilozhenie-2-должность-l.caption'),
               title: i18n.t('forms.application.sitemap.prilozhenie-2.сотрудники.i-i-s-prilozhenie-2-должность-l.title'),
-              icon: 'calendar',
+              icon: 'file',
               children: null
             }]
           }, {
@@ -54,19 +54,19 @@ export default Controller.extend({
               link: 'i-i-s-prilozhenie-2-отчет-о-сервере-l',
               caption: i18n.t('forms.application.sitemap.prilozhenie-2.сервер.i-i-s-prilozhenie-2-отчет-о-сервере-l.caption'),
               title: i18n.t('forms.application.sitemap.prilozhenie-2.сервер.i-i-s-prilozhenie-2-отчет-о-сервере-l.title'),
-              icon: 'briefcase',
+              icon: 'paperclip',
               children: null
             }, {
               link: 'i-i-s-prilozhenie-2-расположение-l',
               caption: i18n.t('forms.application.sitemap.prilozhenie-2.сервер.i-i-s-prilozhenie-2-расположение-l.caption'),
               title: i18n.t('forms.application.sitemap.prilozhenie-2.сервер.i-i-s-prilozhenie-2-расположение-l.title'),
-              icon: 'list',
+              icon: 'book',
               children: null
             }, {
               link: 'i-i-s-prilozhenie-2-серверная-l',
               caption: i18n.t('forms.application.sitemap.prilozhenie-2.сервер.i-i-s-prilozhenie-2-серверная-l.caption'),
               title: i18n.t('forms.application.sitemap.prilozhenie-2.сервер.i-i-s-prilozhenie-2-серверная-l.title'),
-              icon: 'archive',
+              icon: 'suitcase',
               children: null
             }]
           }]

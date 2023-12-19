@@ -30,7 +30,9 @@ namespace IIS.Prilozhenie_2
     [Caption("Отчет о сервере")]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("ОтчетОСервереE", new string[] {
-            "Режим as \'Режим\'"})]
+            "Режим as \'Режим\'",
+            "Расположение.Адрес as \'Адрес\'",
+            "Серверная as \'Сервер\'"})]
     [View("ОтчетОСервереL", new string[] {
             "Режим as \'Режим\'"})]
     public class ОтчетОСервере : ICSSoft.STORMNET.DataObject

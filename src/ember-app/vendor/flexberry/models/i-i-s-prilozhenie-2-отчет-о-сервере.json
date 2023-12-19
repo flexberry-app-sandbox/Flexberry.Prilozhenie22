@@ -45,7 +45,43 @@
           "index": 0
         }
       ],
-      "belongsTo": [],
+      "belongsTo": [
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "Расположение",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "адрес",
+              "caption": "Адрес",
+              "hidden": false,
+              "index": 1
+            }
+          ],
+          "index": -1,
+          "type": "default",
+          "caption": "Адрес",
+          "name": "расположение",
+          "relatedTo": "i-i-s-prilozhenie-2-расположение",
+          "inverse": null
+        },
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "Серверная",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [],
+          "index": 2,
+          "type": "default",
+          "caption": "Сервер",
+          "name": "серверная",
+          "relatedTo": "i-i-s-prilozhenie-2-серверная",
+          "inverse": null
+        }
+      ],
       "hasMany": []
     },
     {
